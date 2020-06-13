@@ -1,0 +1,27 @@
+{
+  "categories": [
+    {
+      "name": "pants",
+      "display_name": "anything",
+      "description": "Long",
+      "id": 1
+    }
+  ],
+  "products": [
+    {
+      "category": "outfit",
+      "name": "pants",
+      "display_name": "anything",
+      "description": "Long sleeves",
+      "id": 1
+    },
+    {
+      "name": "pants",
+      "category": "short",
+      "description": "none",
+      "price": 1.99,
+      "apiId": "v1",
+      "id": 2
+    }
+  ]
+}
